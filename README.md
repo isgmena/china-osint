@@ -11,6 +11,14 @@ We will be collecting sources of information covering China and including them h
 
 Enjoy browsing!
 
+## How Sources Are Organized
+There are three categories of "perspectives" from which you will gather information:
+- Chinese perspective (Beijing, Hong Kong and Taipei perspectives)
+- Regional perspectives (Australia, Singapore, Japan, etc.)
+- International perspectives (USA, Germany, UK, etc.)
+
+In the future, there will be more sources of information gathered and put here in this repo.
+
 ## Reach Us
 
 - **Twitter**: https://www.twitter.com/invinciblefirm

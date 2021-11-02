@@ -13,10 +13,10 @@ Enjoy browsing!
 
 ## Reach Us
 
-**Twitter**: https://www.twitter.com/invinciblefirm
-**LinkedIn**: https://www.linkedin.com/company/invinciblefirm
-**Instagram**: https://www.instagram.com/invinciblefirm
-**Email**: info@invincible.ae
+- **Twitter**: https://www.twitter.com/invinciblefirm
+- **LinkedIn**: https://www.linkedin.com/company/invinciblefirm
+- **Instagram**: https://www.instagram.com/invinciblefirm
+- **Email**: info@invincible.ae
 
 ## Remarks
 
